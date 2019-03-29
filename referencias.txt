@@ -1,0 +1,5 @@
+http://pandas.pydata.org/pandas-docs/stable/
+https://docs.python.org/3/library/urllib.request.html
+https://matplotlib.org/api/_as_gen/matplotlib.pyplot.hist.html
+https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/skewed-distribution/
+https://books.google.com.br/books?id=EQfUR3uOqiQC&pg=PA39&lpg=PA39&dq=distribui%C3%A7%C3%A3o+assim%C3%A9trica+positiva&source=bl&ots=uV3s4Cw1xO&sig=3ueX-YgmDFetsP4xcERrUkqYhLw&hl=pt-BR&sa=X&ved=0ahUKEwjS0KSY-4vWAhVC5mMKHUzKC8k4FBDoAQg4MAM#v=onepage&q=distribui%C3%A7%C3%A3o%20assim%C3%A9trica%20positiva&f=false
